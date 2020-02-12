@@ -1,6 +1,3 @@
-@JaitulBharodiya
-
-"""Check if the triangle is isosceles, right , scalene or equilateral """
 
 def classify_triangle(a,b,c):
     """Check the triangle"""
