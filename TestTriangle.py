@@ -1,5 +1,3 @@
-@JaitulBharodiya
-
 import unittest
 
 from Triangle import classify_triangle
