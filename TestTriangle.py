@@ -2,7 +2,7 @@
 
 import unittest
 
-from HW02a_JBharodiya import classify_triangle
+from Triangle import classify_triangle
 
 class TestTriangles(unittest.TestCase):
 
