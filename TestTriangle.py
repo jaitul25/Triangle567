@@ -23,5 +23,5 @@ class TestTriangles(unittest.TestCase):
         self.assertEqual(classify_triangle(7,8,9),'Scalene Triangle')
 
 if __name__ == '__main__':
-    unittest.main(exit=False,verbosity=2)
+    unittest.main()
 
